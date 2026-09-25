@@ -1,0 +1,12 @@
+﻿# YOLO dataset configuration: manually assembled dataset
+#
+# Portable repository configuration corresponding to the manual YOLO experiment.
+# The original experiment used an absolute local Windows path.
+
+path: data/yolo/manual
+
+train: images/train
+val: images/val
+
+names:
+  0: reh

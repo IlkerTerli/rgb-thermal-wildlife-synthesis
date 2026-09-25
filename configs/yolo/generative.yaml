@@ -1,0 +1,15 @@
+﻿# YOLO dataset configuration: generatively created dataset
+#
+# Reconstructed portable configuration corresponding to the final
+# generative YOLO experiment (train5).
+#
+# The archived train5 args.yaml refers to KI_Dataset/data.yaml.
+# The original absolute data.yaml is no longer available.
+
+path: data/yolo/generative
+
+train: images/train
+val: images/val
+
+names:
+  0: reh

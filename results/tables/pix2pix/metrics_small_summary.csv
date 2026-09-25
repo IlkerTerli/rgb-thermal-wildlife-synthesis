@@ -1,0 +1,2 @@
+experiment,n,psnr_mean,psnr_std,ssim_mean,ssim_std,ssim_min,ssim_max,resized
+Small,50,25.0103,0.2273,0.7209,0.0063,0.6810,0.7253,0
